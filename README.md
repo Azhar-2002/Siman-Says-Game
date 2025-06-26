@@ -1,6 +1,6 @@
 # 🟢 Simon Says Game
 A fun and interactive memory game where players repeat an increasingly long sequence of colors. Built using HTML, CSS, and JavaScript.
-
+# Live link :- https://azhar-2002.github.io/Siman-Says-Game/
 ## 🎮 How to Play
 1. Press the **Start** button to begin.
 2. The game will show a sequence of colored buttons with sounds.
